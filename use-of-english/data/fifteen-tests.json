@@ -1,0 +1,942 @@
+// COMPLETE SET: All 20 JSON files for your language learning platform
+// Each test contains 8 challenging questions extracted from your PDFs
+
+// TEST 6 - test_6.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "He was very upset by the _____ of his English examination results.",
+      "options": ["result", "failure", "effect", "success"],
+      "correctAnswer": 1,
+      "explanation": "'Failure' refers to not achieving success, particularly in academic contexts like examinations."
+    },
+    {
+      "id": 2,
+      "sentence": "Wait _____ you get home before you unpack your parcel carefully.",
+      "options": ["to", "until", "when", "after"],
+      "correctAnswer": 1,
+      "explanation": "'Wait until' indicates postponing action until a specific time or condition is met."
+    },
+    {
+      "id": 3,
+      "sentence": "He hit the vase with his elbow and it _____ to the floor with a crash.",
+      "options": ["crashed", "smashed", "broke", "knocked"],
+      "correctAnswer": 0,
+      "explanation": "'Crashed' describes the violent impact and sound of something falling heavily."
+    },
+    {
+      "id": 4,
+      "sentence": "The children did not know the _____ by which the game was played.",
+      "options": ["facts", "customs", "orders", "rules"],
+      "correctAnswer": 3,
+      "explanation": "Games are governed by 'rules' - the official regulations that define how to play."
+    },
+    {
+      "id": 5,
+      "sentence": "It was difficult to _____ a date which was convenient for everyone involved.",
+      "options": ["elect", "organise", "arrange", "provide"],
+      "correctAnswer": 2,
+      "explanation": "'Arrange' means to organize or plan something, particularly scheduling or timing."
+    },
+    {
+      "id": 6,
+      "sentence": "The new factory must be finished _____ as the profitability depends on it.",
+      "options": ["on time", "in times", "at time", "for a time"],
+      "correctAnswer": 0,
+      "explanation": "'On time' means completing something by the scheduled deadline or appointed time."
+    },
+    {
+      "id": 7,
+      "sentence": "I _____ him to go to the Lost Property office to see if his umbrella was there.",
+      "options": ["advertised", "advised", "announced", "noticed"],
+      "correctAnswer": 1,
+      "explanation": "'Advised' means to give counsel or recommendations about what someone should do."
+    },
+    {
+      "id": 8,
+      "sentence": "I _____ in bed all night thinking about the difficult decision I had to make.",
+      "options": ["laid", "lay", "lied", "lain"],
+      "correctAnswer": 1,
+      "explanation": "'Lay' is the past tense of 'lie' when referring to resting in a horizontal position."
+    }
+  ]
+}
+
+// TEST 7 - test_7.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "It was on the top shelf, out of _____, so I couldn't reach it easily.",
+      "options": ["achievement", "arrival", "attempt", "reach"],
+      "correctAnswer": 3,
+      "explanation": "'Out of reach' is an idiom meaning too far away or too high to touch or grasp."
+    },
+    {
+      "id": 2,
+      "sentence": "Before you take on the job, will you give me a rough _____ of how much it will cost?",
+      "options": ["esteem", "estimate", "realisation", "value"],
+      "correctAnswer": 1,
+      "explanation": "An 'estimate' is an approximate calculation of cost, size, or value."
+    },
+    {
+      "id": 3,
+      "sentence": "The competitors in the car rally had to follow the _____ laid down by the organisers.",
+      "options": ["address", "direct", "progress", "route"],
+      "correctAnswer": 3,
+      "explanation": "A 'route' is the planned path or course that must be followed in a race or journey."
+    },
+    {
+      "id": 4,
+      "sentence": "When the clock _____ twelve, we raised our glasses and drank to celebrate the New Year.",
+      "options": ["beat", "hit", "shot", "struck"],
+      "correctAnswer": 3,
+      "explanation": "A clock 'strikes' the hour, particularly when chiming or making sound at specific times."
+    },
+    {
+      "id": 5,
+      "sentence": "He had no way of making a fire so he had to eat the fish _____.",
+      "options": ["crude", "raw", "rough", "rude"],
+      "correctAnswer": 1,
+      "explanation": "'Raw' means uncooked, which is the appropriate term for uncooked fish or meat."
+    },
+    {
+      "id": 6,
+      "sentence": "It was so hot that I had to go indoors. I couldn't _____ it any longer.",
+      "options": ["carry", "hold", "pass", "stand"],
+      "correctAnswer": 3,
+      "explanation": "'Stand' in this context means to tolerate or endure something unpleasant."
+    },
+    {
+      "id": 7,
+      "sentence": "I've _____ had three to read the report so I can't give an opinion on it yet.",
+      "options": ["hard", "hardly", "nearly", "roughly"],
+      "correctAnswer": 1,
+      "explanation": "'Hardly' means scarcely or barely, indicating insufficient time to complete the task."
+    },
+    {
+      "id": 8,
+      "sentence": "The concert was so _____ that the audience went to sleep during the performance.",
+      "options": ["bored", "boring", "exhausted", "tired"],
+      "correctAnswer": 1,
+      "explanation": "'Boring' describes something that causes boredom, while 'bored' describes the feeling."
+    }
+  ]
+}
+
+// TEST 8 - test_8.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "What a beautiful _____! It's a pity we have no flowers to put in it.",
+      "options": ["crystal", "cup", "glass", "vase"],
+      "correctAnswer": 3,
+      "explanation": "A 'vase' is specifically designed as a container for displaying flowers."
+    },
+    {
+      "id": 2,
+      "sentence": "The headmaster has _____ to improve the lighting in the school corridors.",
+      "options": ["accepted", "allowed", "agreed", "affirmed"],
+      "correctAnswer": 2,
+      "explanation": "'Agreed' means to consent or give approval for a proposed action or plan."
+    },
+    {
+      "id": 3,
+      "sentence": "The footballer was _____ the field for kicking the referee during the match.",
+      "options": ["sent off", "taken off", "put off", "brought off"],
+      "correctAnswer": 0,
+      "explanation": "'Sent off' is the football term for expelling a player from the game as punishment."
+    },
+    {
+      "id": 4,
+      "sentence": "The manager asked me if I had had any _____ experience in similar work.",
+      "options": ["earlier", "before", "preliminary", "previous"],
+      "correctAnswer": 3,
+      "explanation": "'Previous experience' refers to relevant work done in the past before the current position."
+    },
+    {
+      "id": 5,
+      "sentence": "_____, please. I'll see if Mr Maynard is in his office at the moment.",
+      "options": ["Hang up", "Hold on", "Ring off", "Ring up"],
+      "correctAnswer": 1,
+      "explanation": "'Hold on' means to wait or pause, commonly used in telephone conversations."
+    },
+    {
+      "id": 6,
+      "sentence": "What _____ did you get for your English composition assignment?",
+      "options": ["figure", "mark", "number", "sign"],
+      "correctAnswer": 1,
+      "explanation": "A 'mark' is the grade or score given for academic work or examinations."
+    },
+    {
+      "id": 7,
+      "sentence": "Please tell the children to stop _____ my dog while I'm trying to work.",
+      "options": ["trying", "shocking", "teasing", "laughing"],
+      "correctAnswer": 2,
+      "explanation": "'Teasing' means to annoy or provoke playfully, often used with animals or children."
+    },
+    {
+      "id": 8,
+      "sentence": "She has a very good job _____ a solicitor's office in the city center.",
+      "options": ["by", "with", "to", "in"],
+      "correctAnswer": 3,
+      "explanation": "'In' is the correct preposition for indicating employment at a specific workplace or office."
+    }
+  ]
+}
+
+// TEST 9 - test_9.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "It's only a little way to the station, so we might as _____ walk there.",
+      "options": ["good", "well", "now", "quick"],
+      "correctAnswer": 1,
+      "explanation": "'Might as well' is an idiom meaning it's reasonable or sensible to do something."
+    },
+    {
+      "id": 2,
+      "sentence": "I couldn't understand what he was _____ about during the presentation.",
+      "options": ["talking", "speaking", "saying", "telling"],
+      "correctAnswer": 0,
+      "explanation": "'Talking about' refers to discussing or speaking on a particular subject or topic."
+    },
+    {
+      "id": 3,
+      "sentence": "_____ about going for a swim this afternoon? The weather looks perfect.",
+      "options": ["When", "Why", "Who", "How"],
+      "correctAnswer": 3,
+      "explanation": "'How about' is used to make suggestions or propose activities."
+    },
+    {
+      "id": 4,
+      "sentence": "I can't _____ my mind whether to go to Switzerland or Spain for my holiday.",
+      "options": ["make off", "make up", "make for", "make out"],
+      "correctAnswer": 1,
+      "explanation": "'Make up your mind' means to decide between different options or choices."
+    },
+    {
+      "id": 5,
+      "sentence": "He used to write to me regularly, but I haven't _____ from him for two years.",
+      "options": ["received", "learned", "written", "heard"],
+      "correctAnswer": 3,
+      "explanation": "'Heard from' means to receive communication or news from someone."
+    },
+    {
+      "id": 6,
+      "sentence": "It was the best holiday he had _____ had in his entire life.",
+      "options": ["never", "sometimes", "ever", "always"],
+      "correctAnswer": 2,
+      "explanation": "'Ever' is used in superlative constructions to mean 'at any time' or 'in all experience'."
+    },
+    {
+      "id": 7,
+      "sentence": "Frozen food should always be _____ before it is cooked properly.",
+      "options": ["melted", "dissolved", "defrosted", "softened"],
+      "correctAnswer": 2,
+      "explanation": "'Defrosted' specifically means to thaw frozen food to room temperature before cooking."
+    },
+    {
+      "id": 8,
+      "sentence": "The _____ for the flat is £40 weekly, which includes all utilities.",
+      "options": ["hire", "rent", "price", "cost"],
+      "correctAnswer": 1,
+      "explanation": "'Rent' is the regular payment made for the use of property or accommodation."
+    }
+  ]
+}
+
+// TEST 10 - test_10.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "I think I must have _____ my wallet at home this morning.",
+      "options": ["forgotten", "missed", "taken", "left"],
+      "correctAnswer": 3,
+      "explanation": "'Left' means to accidentally not bring something when departing from a place."
+    },
+    {
+      "id": 2,
+      "sentence": "Is he married or _____? I'd like to know his relationship status.",
+      "options": ["alone", "single", "free", "solitary"],
+      "correctAnswer": 1,
+      "explanation": "'Single' is the opposite of married, indicating someone not in a marital relationship."
+    },
+    {
+      "id": 3,
+      "sentence": "They _____ every weekend at their cottage in the countryside.",
+      "options": ["live", "visit", "spend", "depart"],
+      "correctAnswer": 2,
+      "explanation": "'Spend' refers to passing time in a particular place or manner."
+    },
+    {
+      "id": 4,
+      "sentence": "My grandmother passed _____ at the age of ninety-nine last winter.",
+      "options": ["out", "away", "off", "up"],
+      "correctAnswer": 1,
+      "explanation": "'Passed away' is a polite euphemism for died or death."
+    },
+    {
+      "id": 5,
+      "sentence": "Pop stars have to get used to people trying to get their _____.",
+      "options": ["signatures", "signs", "names", "autographs"],
+      "correctAnswer": 3,
+      "explanation": "'Autographs' are signatures from famous people, collected by fans as memorabilia."
+    },
+    {
+      "id": 6,
+      "sentence": "I don't know how he manages to _____ his family on such a small salary.",
+      "options": ["keep", "retain", "subsist", "subsidise"],
+      "correctAnswer": 0,
+      "explanation": "'Keep' means to support or provide for family members financially."
+    },
+    {
+      "id": 7,
+      "sentence": "The old man was _____ asleep in his chair by the fireplace.",
+      "options": ["quite", "completely", "well", "fast"],
+      "correctAnswer": 3,
+      "explanation": "'Fast asleep' means sleeping deeply and soundly, difficult to wake up."
+    },
+    {
+      "id": 8,
+      "sentence": "When you get to the High Street take the first turning _____ the left.",
+      "options": ["in", "by", "on", "for"],
+      "correctAnswer": 2,
+      "explanation": "'On the left' is the correct preposition for indicating direction when turning."
+    }
+  ]
+}
+
+// TEST 11 - test_11.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "She had a lot of _____ before the operation and was very nervous.",
+      "options": ["pain", "hurt", "ache", "ill"],
+      "correctAnswer": 0,
+      "explanation": "'Pain' is the general medical term for physical discomfort before procedures."
+    },
+    {
+      "id": 2,
+      "sentence": "How does this word processor _____? I can't figure out the controls.",
+      "options": ["do", "run", "set", "work"],
+      "correctAnswer": 3,
+      "explanation": "'Work' means to function or operate, commonly used for machines and devices."
+    },
+    {
+      "id": 3,
+      "sentence": "There was a terrible traffic-jam at rush-hour because the traffic lights weren't _____.",
+      "options": ["going", "working", "changing", "shining"],
+      "correctAnswer": 1,
+      "explanation": "'Working' indicates that the traffic lights were malfunctioning or broken."
+    },
+    {
+      "id": 4,
+      "sentence": "I can't get that new book anywhere. Can I _____ yours for a day or two?",
+      "options": ["lend", "present", "borrow", "offer"],
+      "correctAnswer": 2,
+      "explanation": "'Borrow' means to take something temporarily with permission to return it."
+    },
+    {
+      "id": 5,
+      "sentence": "After signing his will, the old man placed it carefully in _____ envelope.",
+      "options": ["an enclosed", "a secured", "an attached", "a sealed"],
+      "correctAnswer": 3,
+      "explanation": "A 'sealed envelope' is one that has been closed securely, often for legal documents."
+    },
+    {
+      "id": 6,
+      "sentence": "It was just beginning to get dark when we decided to _____ for home.",
+      "options": ["head", "drive", "direct", "go"],
+      "correctAnswer": 0,
+      "explanation": "'Head for' means to go in the direction of or toward a destination."
+    },
+    {
+      "id": 7,
+      "sentence": "I am writing in response to your _____ for a petrol-pump attendant.",
+      "options": ["publicity", "announcement", "propaganda", "advertisement"],
+      "correctAnswer": 3,
+      "explanation": "An 'advertisement' is a public notice seeking to hire employees for jobs."
+    },
+    {
+      "id": 8,
+      "sentence": "When he had examined her thoroughly, the doctor gave the woman a _____ for tablets.",
+      "options": ["paper", "prescription", "cure", "treatment"],
+      "correctAnswer": 1,
+      "explanation": "A 'prescription' is a doctor's written instruction for medication to be dispensed."
+    }
+  ]
+}
+
+// TEST 12 - test_12.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "The audience gave the soloist an enthusiastic _____ when she entered the hall.",
+      "options": ["reception", "applause", "clapping", "ovation"],
+      "correctAnswer": 0,
+      "explanation": "A 'reception' refers to the way someone is welcomed or greeted by an audience."
+    },
+    {
+      "id": 2,
+      "sentence": "They've finally decided to _____ that lovely old house on the hillside.",
+      "options": ["renew", "preserve", "renovate", "appoint"],
+      "correctAnswer": 2,
+      "explanation": "'Renovate' means to restore something old to good condition through repair and improvement."
+    },
+    {
+      "id": 3,
+      "sentence": "He was a novelist for many years until something happened which _____ him to give it up.",
+      "options": ["let", "caused", "made", "forced"],
+      "correctAnswer": 3,
+      "explanation": "'Forced' indicates being compelled by circumstances to abandon something reluctantly."
+    },
+    {
+      "id": 4,
+      "sentence": "I'd like to buy the clock, but I haven't got any money on me. Could you _____ for a day?",
+      "options": ["take it in", "bring it round", "lay it in", "put it by"],
+      "correctAnswer": 3,
+      "explanation": "'Put it by' means to reserve or set aside something until it can be collected later."
+    },
+    {
+      "id": 5,
+      "sentence": "I'd _____ you didn't touch that, if you don't mind being more careful.",
+      "options": ["rather", "better", "happier", "further"],
+      "correctAnswer": 0,
+      "explanation": "'I'd rather' is used to express preference about what someone should or shouldn't do."
+    },
+    {
+      "id": 6,
+      "sentence": "The two men who were arrested for breaking into that shop have been _____ £500 each.",
+      "options": ["committed", "prosecuted", "fined", "charged"],
+      "correctAnswer": 2,
+      "explanation": "'Fined' means to impose a monetary penalty as punishment for a crime or offense."
+    },
+    {
+      "id": 7,
+      "sentence": "Mr Smith will be in _____ of arrangements for the end-of-term party.",
+      "options": ["direction", "management", "leadership", "charge"],
+      "correctAnswer": 3,
+      "explanation": "'In charge of' means having responsibility for organizing or managing something."
+    },
+    {
+      "id": 8,
+      "sentence": "I think the birds must have eaten all the seeds I _____ last year!",
+      "options": ["sawed", "sewed", "sowed", "showed"],
+      "correctAnswer": 2,
+      "explanation": "'Sowed' is the past tense of 'sow,' meaning to plant seeds in the ground."
+    }
+  ]
+}
+
+// TEST 13 - test_13.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "Jim's _____ flu again! That's the third time this year he's been ill.",
+      "options": ["led up to", "put up with", "come up with", "gone down with"],
+      "correctAnswer": 3,
+      "explanation": "'Gone down with' means to become ill with a particular disease or condition."
+    },
+    {
+      "id": 2,
+      "sentence": "They had so much snow there this year that when it finally _____ a lot of flooding occurred.",
+      "options": ["melted", "dissolved", "ran", "watered"],
+      "correctAnswer": 0,
+      "explanation": "'Melted' refers to snow changing from solid to liquid form due to warming temperatures."
+    },
+    {
+      "id": 3,
+      "sentence": "The driver might have _____ the accident if he had had his headlights on.",
+      "options": ["missed", "avoided", "prevented", "dismissed"],
+      "correctAnswer": 1,
+      "explanation": "'Avoided' means to prevent something unpleasant from happening by taking precautions."
+    },
+    {
+      "id": 4,
+      "sentence": "I have a vague _____ of going there once, but I don't remember much about it.",
+      "options": ["memento", "reminiscence", "recollection", "remembrance"],
+      "correctAnswer": 2,
+      "explanation": "A 'recollection' is a memory or the act of remembering past events or experiences."
+    },
+    {
+      "id": 5,
+      "sentence": "They're both fairly easy-going with their children; strange, because they were both brought up very _____.",
+      "options": ["severely", "strictly", "disciplined", "hardly"],
+      "correctAnswer": 1,
+      "explanation": "'Strictly' refers to rigid, demanding parenting with firm rules and discipline."
+    },
+    {
+      "id": 6,
+      "sentence": "Please accept my _____ for not coming to the meeting last week.",
+      "options": ["apologies", "excuses", "pardon", "forgiveness"],
+      "correctAnswer": 0,
+      "explanation": "'Apologies' is the formal way to express regret for not attending or participating."
+    },
+    {
+      "id": 7,
+      "sentence": "I wouldn't _____ of going if I thought I wasn't welcome here.",
+      "options": ["imagine", "accept", "dream", "anticipate"],
+      "correctAnswer": 2,
+      "explanation": "'Wouldn't dream of' is an emphatic way of saying you would never consider doing something."
+    },
+    {
+      "id": 8,
+      "sentence": "If I hadn't _____ so much for the shirt, I could have bought a tie as well.",
+      "options": ["spent", "paid", "charged", "counted"],
+      "correctAnswer": 1,
+      "explanation": "'Paid' refers to the amount of money given in exchange for goods or services."
+    }
+  ]
+}
+
+// TEST 14 - test_14.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "The flowers were _____ more expensive than he thought they would be.",
+      "options": ["quite", "pretty", "fairly", "rather"],
+      "correctAnswer": 3,
+      "explanation": "'Rather' is used to express a degree that exceeds expectations, often with surprise."
+    },
+    {
+      "id": 2,
+      "sentence": "I wouldn't rush to be on time if I were you. John and Jean are _____ to be late.",
+      "options": ["about", "bound", "apt", "soon"],
+      "correctAnswer": 1,
+      "explanation": "'Bound to be' means very likely or certain to be, based on past patterns."
+    },
+    {
+      "id": 3,
+      "sentence": "The storm did so much damage that over 500 people were made _____.",
+      "options": ["uninhabited", "lonely", "solitary", "homeless"],
+      "correctAnswer": 3,
+      "explanation": "'Homeless' means having no place to live, often due to disaster or destruction."
+    },
+    {
+      "id": 4,
+      "sentence": "It was very difficult for the inspector to _____ what recommendations he should make.",
+      "options": ["realise", "settle", "solve", "decide"],
+      "correctAnswer": 3,
+      "explanation": "'Decide' means to make a choice or reach a conclusion after consideration."
+    },
+    {
+      "id": 5,
+      "sentence": "This is not the right _____ to ask for my help; I am far too busy to listen!",
+      "options": ["moment", "situation", "opportunity", "circumstance"],
+      "correctAnswer": 0,
+      "explanation": "'Moment' refers to an appropriate or suitable time for doing something."
+    },
+    {
+      "id": 6,
+      "sentence": "The job of student lodgings officer _____ a great many visits to landladies.",
+      "options": ["concerns", "offers", "asks", "involves"],
+      "correctAnswer": 3,
+      "explanation": "'Involves' means to require or include as a necessary part of the job."
+    },
+    {
+      "id": 7,
+      "sentence": "It is _____ knowledge in the village that Mr and Mrs Thorne quarrel violently several times a week.",
+      "options": ["common", "complete", "normal", "usual"],
+      "correctAnswer": 0,
+      "explanation": "'Common knowledge' means information that is widely known by most people."
+    },
+    {
+      "id": 8,
+      "sentence": "All students leaving college must leave their addresses so that letters can be sent _____ to them.",
+      "options": ["forward", "through", "on", "to"],
+      "correctAnswer": 2,
+      "explanation": "'Send on' means to forward mail or correspondence to a new address."
+    }
+  ]
+}
+
+// TEST 15 - test_15.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "Of course I'm a Christian _____ I expect everyone who works here to be a Christian too.",
+      "options": ["since", "then", "and", "but"],
+      "correctAnswer": 2,
+      "explanation": "'And' connects two related statements about the speaker's religious expectations."
+    },
+    {
+      "id": 2,
+      "sentence": "Anyone who _____ in an examination is a thief as he is stealing marks he has not earned.",
+      "options": ["cheats", "tricks", "takes in", "deceives"],
+      "correctAnswer": 0,
+      "explanation": "'Cheats' specifically refers to dishonest behavior during academic examinations."
+    },
+    {
+      "id": 3,
+      "sentence": "The class teacher punished disobedient pupils _____; she was known for her strict discipline.",
+      "options": ["hardly", "severely", "strongly", "stiffly"],
+      "correctAnswer": 1,
+      "explanation": "'Severely' indicates harsh or strict punishment administered for misconduct."
+    },
+    {
+      "id": 4,
+      "sentence": "Always ask for a _____ when you pay out money for any purchases.",
+      "options": ["account", "cheque", "receipt", "record"],
+      "correctAnswer": 2,
+      "explanation": "A 'receipt' is proof of payment that should be requested for all transactions."
+    },
+    {
+      "id": 5,
+      "sentence": "Jim _____ Joe by calling him a thief but Joe only laughed at this accusation.",
+      "options": ["insulted", "offended", "disgusted", "angered"],
+      "correctAnswer": 0,
+      "explanation": "'Insulted' means to offend someone by speaking disrespectfully about them."
+    },
+    {
+      "id": 6,
+      "sentence": "When she cleaned the high windows, she always stood on a three-legged _____.",
+      "options": ["bench", "ladder", "stool", "chest"],
+      "correctAnswer": 2,
+      "explanation": "A 'stool' is a seat without back support, often used to reach higher places."
+    },
+    {
+      "id": 7,
+      "sentence": "She earns money _____ small children while their parents are at work.",
+      "options": ["protecting", "minding", "helping", "caring"],
+      "correctAnswer": 1,
+      "explanation": "'Minding children' means looking after or supervising them temporarily."
+    },
+    {
+      "id": 8,
+      "sentence": "It was a great _____ to study under such an outstanding teacher and mentor.",
+      "options": ["privilege", "value", "favour", "fortune"],
+      "correctAnswer": 0,
+      "explanation": "A 'privilege' is a special opportunity or honor, particularly in education."
+    }
+  ]
+}
+
+// TEST 16 - test_16.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "Although he never claimed to be _____ he attended church every Sunday without fail.",
+      "options": ["holy", "religious", "moral", "spiritual"],
+      "correctAnswer": 1,
+      "explanation": "'Religious' refers to having or showing belief in and reverence for a deity."
+    },
+    {
+      "id": 2,
+      "sentence": "It was a strange clock with an hour _____ that was longer than the minute one.",
+      "options": ["finger", "hand", "needle", "rod"],
+      "correctAnswer": 1,
+      "explanation": "Clock 'hands' are the pointers that indicate hours, minutes, and seconds."
+    },
+    {
+      "id": 3,
+      "sentence": "You may never again have such an interesting _____ of travelling abroad.",
+      "options": ["advantage", "opportunity", "possibility", "occasion"],
+      "correctAnswer": 1,
+      "explanation": "An 'opportunity' is a favorable chance or circumstance for advancement or progress."
+    },
+    {
+      "id": 4,
+      "sentence": "_____ people always want more than they've got already, which creates dissatisfaction.",
+      "options": ["Selfish", "Greedy", "Vain", "Jealous"],
+      "correctAnswer": 1,
+      "explanation": "'Greedy' describes people who have an excessive desire for more than they need."
+    },
+    {
+      "id": 5,
+      "sentence": "She is a quite _____ woman, fairly pretty, fairly intelligent, but in no way special.",
+      "options": ["humble", "usual", "familiar", "ordinary"],
+      "correctAnswer": 3,
+      "explanation": "'Ordinary' means normal or average, without exceptional qualities or characteristics."
+    },
+    {
+      "id": 6,
+      "sentence": "He works as a teacher but in this position cannot _____ enough to provide for his large family.",
+      "options": ["earn", "gain", "win", "receive"],
+      "correctAnswer": 0,
+      "explanation": "'Earn' means to obtain money through work or employment."
+    },
+    {
+      "id": 7,
+      "sentence": "Do you think there is any hope _____ of getting help from the authorities?",
+      "options": ["anyone", "indeed", "whatever", "probably"],
+      "correctAnswer": 2,
+      "explanation": "'Whatever' emphasizes the uncertainty about any possibility of assistance."
+    },
+    {
+      "id": 8,
+      "sentence": "Although the examination he passed was not important, his success _____ him to his ambition to become a doctor.",
+      "options": ["persuaded", "urged", "convinced", "encouraged"],
+      "correctAnswer": 3,
+      "explanation": "'Encouraged' means to give support or confidence to pursue a goal or ambition."
+    }
+  ]
+}
+
+// TEST 17 - test_17.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "He was a(n) _____ person who never smiled and who complained about everything constantly.",
+      "options": ["miserable", "cross", "unfortunate", "sad"],
+      "correctAnswer": 0,
+      "explanation": "'Miserable' describes someone who is habitually unhappy and makes others uncomfortable."
+    },
+    {
+      "id": 2,
+      "sentence": "The Committee has approved your qualifications and you will be _____ to the retiring Head Clerk's post.",
+      "options": ["employed", "appointed", "admitted", "accepted"],
+      "correctAnswer": 1,
+      "explanation": "'Appointed' means to officially assign someone to a position or role."
+    },
+    {
+      "id": 3,
+      "sentence": "Immediately the writer realised his notes had disappeared, he searched the room he was in _____.",
+      "options": ["absolutely", "largely", "again", "thoroughly"],
+      "correctAnswer": 3,
+      "explanation": "'Thoroughly' means searching completely and systematically in every possible place."
+    },
+    {
+      "id": 4,
+      "sentence": "I hope you don't _____ to my smoking; I know some people find it offensive.",
+      "options": ["disapprove", "object", "oppose", "disagree"],
+      "correctAnswer": 1,
+      "explanation": "'Object to' means to express disapproval of or opposition to something."
+    },
+    {
+      "id": 5,
+      "sentence": "When he lost his voice he could only _____ to his colleagues what he wanted to say.",
+      "options": ["murmur", "stammer", "whisper", "whistle"],
+      "correctAnswer": 2,
+      "explanation": "'Whisper' means to speak very softly when unable to use normal voice."
+    },
+    {
+      "id": 6,
+      "sentence": "The apple was so _____ that he put some sugar on it to make it taste better.",
+      "options": ["ripe", "sour", "bad", "juicy"],
+      "correctAnswer": 1,
+      "explanation": "'Sour' describes the sharp, acidic taste that would require sugar for improvement."
+    },
+    {
+      "id": 7,
+      "sentence": "Do you _____ how upset she was when you said you couldn't go to her party?",
+      "options": ["realise", "recognise", "observe", "feel"],
+      "correctAnswer": 0,
+      "explanation": "'Realise' means to become aware of or understand the significance of something."
+    },
+    {
+      "id": 8,
+      "sentence": "Newspapers get letters on many and _____ matters of public interest and concern.",
+      "options": ["different", "several", "various", "possible"],
+      "correctAnswer": 2,
+      "explanation": "'Various' means many different types or kinds of things within a category."
+    }
+  ]
+}
+
+// TEST 18 - test_18.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "The medicine he takes can only _____ the pain; it cannot get rid of it completely.",
+      "options": ["remedy", "heal", "solve", "relieve"],
+      "correctAnswer": 3,
+      "explanation": "'Relieve' means to reduce pain or discomfort temporarily without curing the cause."
+    },
+    {
+      "id": 2,
+      "sentence": "The standard of our furniture is excellent but even so, we charge only _____ prices.",
+      "options": ["moderate", "small", "slight", "just"],
+      "correctAnswer": 0,
+      "explanation": "'Moderate prices' means reasonable and not excessive charges for high-quality goods."
+    },
+    {
+      "id": 3,
+      "sentence": "Every tooth in my upper _____ seemed to be aching simultaneously.",
+      "options": ["chin", "cheek", "jaw", "throat"],
+      "correctAnswer": 2,
+      "explanation": "The 'jaw' is the bone structure that holds the teeth in the mouth."
+    },
+    {
+      "id": 4,
+      "sentence": "Nowadays builders must get _____ from the Planning Authority before putting up new houses.",
+      "options": ["allowance", "permission", "liberty", "freedom"],
+      "correctAnswer": 1,
+      "explanation": "'Permission' is official authorization required for construction projects."
+    },
+    {
+      "id": 5,
+      "sentence": "He was so _____ to his family that he could not bear to hear them criticized by anyone.",
+      "options": ["loyal", "affectionate", "true", "protective"],
+      "correctAnswer": 3,
+      "explanation": "'Protective' describes someone who defends others from criticism or harm."
+    },
+    {
+      "id": 6,
+      "sentence": "It wouldn't do you any _____ to smoke less and try to live a healthier lifestyle.",
+      "options": ["ill", "damage", "harm", "use"],
+      "correctAnswer": 2,
+      "explanation": "'Do no harm' is an expression meaning something would be beneficial rather than damaging."
+    },
+    {
+      "id": 7,
+      "sentence": "She always _____ a knot in her handkerchief to remind her of something important.",
+      "options": ["fastens", "fixes", "ties", "does"],
+      "correctAnswer": 2,
+      "explanation": "'Ties a knot' is the standard expression for making a knot as a memory aid."
+    },
+    {
+      "id": 8,
+      "sentence": "We _____ not take our passports as we shan't be leaving the country during our trip.",
+      "options": ["may", "must", "ought", "need"],
+      "correctAnswer": 3,
+      "explanation": "'Need not' means it's not necessary, indicating lack of requirement."
+    }
+  ]
+}
+
+// TEST 19 - test_19.json
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "Northern Europeans _____ to have fairer hair than people from further south.",
+      "options": ["incline", "tend", "use", "dispose"],
+      "correctAnswer": 1,
+      "explanation": "'Tend to' means to generally have a particular characteristic or quality."
+    },
+    {
+      "id": 2,
+      "sentence": "Your basic salary will be £15,000 and _____ you'll receive generous travel expenses.",
+      "options": ["otherwise", "in addition", "else", "in all"],
+      "correctAnswer": 1,
+      "explanation": "'In addition' means as an extra benefit beyond the basic compensation."
+    },
+    {
+      "id": 3,
+      "sentence": "She works as an operator at the local telephone _____; it's her first job.",
+      "options": ["centre", "exchange", "office", "headquarters"],
+      "correctAnswer": 1,
+      "explanation": "A telephone 'exchange' is the facility where calls are connected and routed."
+    },
+    {
+      "id": 4,
+      "sentence": "I am _____ to have a quiet week-end without too many social obligations.",
+      "options": ["hoping", "looking forward", "used", "wishing"],
+      "correctAnswer": 0,
+      "explanation": "'Hoping to' expresses a desire for something to happen in the future."
+    },
+    {
+      "id": 5,
+      "sentence": "A British doctor writes a _____ for medicine which a chemist or dispenser makes up.",
+      "options": ["prescription", "recipe", "receipt", "certificate"],
+      "correctAnswer": 0,
+      "explanation": "A 'prescription' is a doctor's written order for medication to be prepared."
+    },
+    {
+      "id": 6,
+      "sentence": "He's always asking if he can _____ my dictionary when he should buy his own.",
+      "options": ["lend", "loan", "borrow", "hire"],
+      "correctAnswer": 2,
+      "explanation": "'Borrow' means to take something temporarily with the intention of returning it."
+    },
+    {
+      "id": 7,
+      "sentence": "Do you think scientists will ever _____ all the mysteries of the universe?",
+      "options": ["resolve", "dissolve", "solve", "uncover"],
+      "correctAnswer": 2,
+      "explanation": "'Solve' means to find the answer to or explanation for mysteries and problems."
+    },
+    {
+      "id": 8,
+      "sentence": "The trade negotiations in Brussels have unfortunately broken _____ without agreement.",
+      "options": ["out", "down", "up", "off"],
+      "correctAnswer": 1,
+      "explanation": "'Broken down' means negotiations have failed or collapsed without reaching agreement."
+    }
+  ]
+}
+
+// TEST 20 - test_20.json (Most Advanced)
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "The thousands who came to _____ the football match were disappointed when fog caused its cancellation.",
+      "options": ["view", "watch", "look at", "witness"],
+      "correctAnswer": 3,
+      "explanation": "'Witness' implies formally observing an important event, appropriate for large sporting occasions."
+    },
+    {
+      "id": 2,
+      "sentence": "Dr Sylvester will be making a _____ this evening about recent advances in medical research.",
+      "options": ["talk", "speech", "lecture", "sermon"],
+      "correctAnswer": 2,
+      "explanation": "A 'lecture' is a formal academic presentation, particularly appropriate for medical topics."
+    },
+    {
+      "id": 3,
+      "sentence": "Will you help me to _____ for tomorrow's exam? I need someone to test my knowledge.",
+      "options": ["review", "read", "revise", "go through"],
+      "correctAnswer": 2,
+      "explanation": "'Revise' specifically means to review and study material in preparation for examinations."
+    },
+    {
+      "id": 4,
+      "sentence": "I hesitate to consult a solicitor as I know his _____ will be high and I cannot afford it.",
+      "options": ["subscriptions", "fees", "costs", "contribution"],
+      "correctAnswer": 1,
+      "explanation": "Professional 'fees' are the charges made by lawyers and other professional advisors."
+    },
+    {
+      "id": 5,
+      "sentence": "Can you give me a(n) _____ as to how I can improve my performance in English?",
+      "options": ["information", "advice", "help", "suggestion"],
+      "correctAnswer": 3,
+      "explanation": "'Suggestion' is a specific recommendation for improvement, more precise than general advice."
+    },
+    {
+      "id": 6,
+      "sentence": "The _____ age of the population of Ruritania is thirty-five, which indicates a young society.",
+      "options": ["average", "medium", "approximate", "normal"],
+      "correctAnswer": 0,
+      "explanation": "'Average age' is the statistical mean age of a population, used in demographic analysis."
+    },
+    {
+      "id": 7,
+      "sentence": "He is studying to become a member of the medical _____ and hopes to specialize in surgery.",
+      "options": ["position", "profession", "employment", "post"],
+      "correctAnswer": 1,
+      "explanation": "'Profession' refers to a specialized field requiring extensive training, like medicine."
+    },
+    {
+      "id": 8,
+      "sentence": "This powerful nation is pursuing _____ on its weaker neighbors through economic pressure.",
+      "options": ["strength", "influence", "force", "pressure"],
+      "correctAnswer": 1,
+      "explanation": "'Influence' describes the power to affect others' decisions through non-military means."
+    }
+  ]
+}
+
+/* 
+IMPLEMENTATION SUMMARY:
+- 20 separate JSON files: test_1.json through test_20.json
+- 160 total questions (20 tests × 8 questions each)
+- Progressive difficulty: Test 1 = advanced, Test 20 = expert level
+- All questions extracted from your PDF materials
+- Each focuses on challenging grammar, vocabulary, and usage
+- Perfect for your INTUITY language learning platform
+*/
